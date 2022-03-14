@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmVJN4GE0uTnKQQLodBKqHpwFnVdVCtACEsgEz6ulg/6HJ9qgbigdGOisffma7jUFca50Ikl/kZf9SLuyp3rAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Downloads\\New folder (47)\\movil 2\\FirmaDigital\\FirmaDigital\\FirmaDigital\\FirmaDigital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\xamarin.controls.signaturepad.forms\\2.0.0\\xamarin.controls.signaturepad.forms.2.0.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Xamarin.Controls.SignaturePad.Forms 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Xamarin.Controls.SignaturePad.Forms",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
